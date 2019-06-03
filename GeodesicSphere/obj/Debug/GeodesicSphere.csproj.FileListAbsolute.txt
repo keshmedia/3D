@@ -1,0 +1,15 @@
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch24\GeodesicSphere\bin\Debug\GeodesicSphere.exe.config
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch24\GeodesicSphere\bin\Debug\GeodesicSphere.exe
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch24\GeodesicSphere\bin\Debug\GeodesicSphere.pdb
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch24\GeodesicSphere\obj\Debug\GeodesicSphere.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch24\GeodesicSphere\obj\Debug\MainWindow.g.cs
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch24\GeodesicSphere\obj\Debug\App.g.cs
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch24\GeodesicSphere\obj\Debug\GeodesicSphere_MarkupCompile.cache
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch24\GeodesicSphere\obj\Debug\GeodesicSphere_MarkupCompile.lref
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch24\GeodesicSphere\obj\Debug\MainWindow.baml
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch24\GeodesicSphere\obj\Debug\GeodesicSphere.g.resources
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch24\GeodesicSphere\obj\Debug\GeodesicSphere.Properties.Resources.resources
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch24\GeodesicSphere\obj\Debug\GeodesicSphere.csproj.GenerateResource.cache
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch24\GeodesicSphere\obj\Debug\GeodesicSphere.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch24\GeodesicSphere\obj\Debug\GeodesicSphere.exe
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch24\GeodesicSphere\obj\Debug\GeodesicSphere.pdb
