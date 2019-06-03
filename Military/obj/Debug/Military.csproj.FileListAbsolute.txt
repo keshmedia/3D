@@ -1,0 +1,30 @@
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch04\Military\bin\Debug\Military.exe.config
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch04\Military\bin\Debug\Military.exe
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch04\Military\bin\Debug\Military.pdb
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch04\Military\obj\Debug\Military.csprojAssemblyReference.cache
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch04\Military\obj\Debug\MainWindow.g.cs
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch04\Military\obj\Debug\App.g.cs
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch04\Military\obj\Debug\Military_MarkupCompile.cache
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch04\Military\obj\Debug\Military_MarkupCompile.lref
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch04\Military\obj\Debug\MainWindow.baml
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch04\Military\obj\Debug\Military.g.resources
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch04\Military\obj\Debug\Military.Properties.Resources.resources
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch04\Military\obj\Debug\Military.csproj.GenerateResource.cache
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch04\Military\obj\Debug\Military.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch04\Military\obj\Debug\Military.exe
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch04\Military\obj\Debug\Military.pdb
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch04\Military\bin\Debug\Military.exe.config
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch04\Military\bin\Debug\Military.exe
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch04\Military\bin\Debug\Military.pdb
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch04\Military\obj\Debug\Military.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch04\Military\obj\Debug\MainWindow.g.cs
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch04\Military\obj\Debug\App.g.cs
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch04\Military\obj\Debug\Military_MarkupCompile.cache
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch04\Military\obj\Debug\Military_MarkupCompile.lref
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch04\Military\obj\Debug\MainWindow.baml
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch04\Military\obj\Debug\Military.g.resources
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch04\Military\obj\Debug\Military.Properties.Resources.resources
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch04\Military\obj\Debug\Military.csproj.GenerateResource.cache
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch04\Military\obj\Debug\Military.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch04\Military\obj\Debug\Military.exe
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch04\Military\obj\Debug\Military.pdb
