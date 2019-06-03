@@ -1,0 +1,34 @@
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch35\Robot\bin\Debug\rock.jpg
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch35\Robot\bin\Debug\Robot.exe.config
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch35\Robot\bin\Debug\Robot.exe
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch35\Robot\bin\Debug\Robot.pdb
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch35\Robot\obj\Debug\Robot.csprojAssemblyReference.cache
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch35\Robot\obj\Debug\MainWindow.g.cs
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch35\Robot\obj\Debug\App.g.cs
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch35\Robot\obj\Debug\Robot_Content.g.cs
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch35\Robot\obj\Debug\Robot_MarkupCompile.cache
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch35\Robot\obj\Debug\Robot_MarkupCompile.lref
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch35\Robot\obj\Debug\MainWindow.baml
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch35\Robot\obj\Debug\Robot.g.resources
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch35\Robot\obj\Debug\Robot.Properties.Resources.resources
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch35\Robot\obj\Debug\Robot.csproj.GenerateResource.cache
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch35\Robot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch35\Robot\obj\Debug\Robot.exe
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch35\Robot\obj\Debug\Robot.pdb
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\Robot\bin\Debug\rock.jpg
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\Robot\bin\Debug\Robot.exe.config
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\Robot\bin\Debug\Robot.exe
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\Robot\bin\Debug\Robot.pdb
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\Robot\obj\Debug\Robot.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\Robot\obj\Debug\MainWindow.g.cs
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\Robot\obj\Debug\App.g.cs
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\Robot\obj\Debug\Robot_Content.g.cs
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\Robot\obj\Debug\Robot_MarkupCompile.cache
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\Robot\obj\Debug\Robot_MarkupCompile.lref
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\Robot\obj\Debug\MainWindow.baml
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\Robot\obj\Debug\Robot.g.resources
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\Robot\obj\Debug\Robot.Properties.Resources.resources
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\Robot\obj\Debug\Robot.csproj.GenerateResource.cache
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\Robot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\Robot\obj\Debug\Robot.exe
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\Robot\obj\Debug\Robot.pdb
