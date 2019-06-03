@@ -1,0 +1,17 @@
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\RobotArm\bin\Debug\metal.jpg
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\RobotArm\bin\Debug\RobotArm.exe.config
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\RobotArm\bin\Debug\RobotArm.exe
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\RobotArm\bin\Debug\RobotArm.pdb
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\RobotArm\obj\Debug\RobotArm.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\RobotArm\obj\Debug\MainWindow.g.cs
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\RobotArm\obj\Debug\App.g.cs
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\RobotArm\obj\Debug\RobotArm_Content.g.cs
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\RobotArm\obj\Debug\RobotArm_MarkupCompile.cache
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\RobotArm\obj\Debug\RobotArm_MarkupCompile.lref
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\RobotArm\obj\Debug\MainWindow.baml
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\RobotArm\obj\Debug\RobotArm.g.resources
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\RobotArm\obj\Debug\RobotArm.Properties.Resources.resources
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\RobotArm\obj\Debug\RobotArm.csproj.GenerateResource.cache
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\RobotArm\obj\Debug\RobotArm.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\RobotArm\obj\Debug\RobotArm.exe
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch35\RobotArm\obj\Debug\RobotArm.pdb
