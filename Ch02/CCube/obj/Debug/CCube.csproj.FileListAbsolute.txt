@@ -1,0 +1,30 @@
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch02\CCube\bin\Debug\CCube.exe.config
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch02\CCube\bin\Debug\CCube.exe
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch02\CCube\bin\Debug\CCube.pdb
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch02\CCube\obj\Debug\CCube.csprojAssemblyReference.cache
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch02\CCube\obj\Debug\MainWindow.g.cs
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch02\CCube\obj\Debug\App.g.cs
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch02\CCube\obj\Debug\CCube_MarkupCompile.cache
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch02\CCube\obj\Debug\CCube_MarkupCompile.lref
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch02\CCube\obj\Debug\MainWindow.baml
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch02\CCube\obj\Debug\CCube.g.resources
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch02\CCube\obj\Debug\CCube.Properties.Resources.resources
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch02\CCube\obj\Debug\CCube.csproj.GenerateResource.cache
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch02\CCube\obj\Debug\CCube.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch02\CCube\obj\Debug\CCube.exe
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch02\CCube\obj\Debug\CCube.pdb
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch02\CCube\bin\Debug\CCube.exe.config
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch02\CCube\bin\Debug\CCube.exe
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch02\CCube\bin\Debug\CCube.pdb
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch02\CCube\obj\Debug\CCube.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch02\CCube\obj\Debug\MainWindow.g.cs
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch02\CCube\obj\Debug\App.g.cs
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch02\CCube\obj\Debug\CCube_MarkupCompile.cache
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch02\CCube\obj\Debug\CCube_MarkupCompile.lref
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch02\CCube\obj\Debug\MainWindow.baml
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch02\CCube\obj\Debug\CCube.g.resources
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch02\CCube\obj\Debug\CCube.Properties.Resources.resources
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch02\CCube\obj\Debug\CCube.csproj.GenerateResource.cache
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch02\CCube\obj\Debug\CCube.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch02\CCube\obj\Debug\CCube.exe
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch02\CCube\obj\Debug\CCube.pdb
