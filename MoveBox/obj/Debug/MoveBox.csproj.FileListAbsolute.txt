@@ -1,0 +1,15 @@
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch32\MoveBox\bin\Debug\MoveBox.exe.config
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch32\MoveBox\bin\Debug\MoveBox.exe
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch32\MoveBox\bin\Debug\MoveBox.pdb
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch32\MoveBox\obj\Debug\MoveBox.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch32\MoveBox\obj\Debug\MainWindow.g.cs
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch32\MoveBox\obj\Debug\App.g.cs
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch32\MoveBox\obj\Debug\MoveBox_MarkupCompile.cache
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch32\MoveBox\obj\Debug\MoveBox_MarkupCompile.lref
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch32\MoveBox\obj\Debug\MainWindow.baml
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch32\MoveBox\obj\Debug\MoveBox.g.resources
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch32\MoveBox\obj\Debug\MoveBox.Properties.Resources.resources
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch32\MoveBox\obj\Debug\MoveBox.csproj.GenerateResource.cache
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch32\MoveBox\obj\Debug\MoveBox.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch32\MoveBox\obj\Debug\MoveBox.exe
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch32\MoveBox\obj\Debug\MoveBox.pdb
