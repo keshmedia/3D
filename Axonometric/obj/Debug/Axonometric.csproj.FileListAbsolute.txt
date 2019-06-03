@@ -1,0 +1,30 @@
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch04\Axonometric\bin\Debug\Axonometric.exe.config
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch04\Axonometric\bin\Debug\Axonometric.exe
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch04\Axonometric\bin\Debug\Axonometric.pdb
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch04\Axonometric\obj\Debug\Axonometric.csprojAssemblyReference.cache
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch04\Axonometric\obj\Debug\MainWindow.g.cs
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch04\Axonometric\obj\Debug\App.g.cs
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch04\Axonometric\obj\Debug\Axonometric_MarkupCompile.cache
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch04\Axonometric\obj\Debug\Axonometric_MarkupCompile.lref
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch04\Axonometric\obj\Debug\MainWindow.baml
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch04\Axonometric\obj\Debug\Axonometric.g.resources
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch04\Axonometric\obj\Debug\Axonometric.Properties.Resources.resources
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch04\Axonometric\obj\Debug\Axonometric.csproj.GenerateResource.cache
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch04\Axonometric\obj\Debug\Axonometric.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch04\Axonometric\obj\Debug\Axonometric.exe
+C:\Users\ennis\Downloads\wpf3dsrc\Wpf3dSrc\Ch04\Axonometric\obj\Debug\Axonometric.pdb
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch04\Axonometric\bin\Debug\Axonometric.exe.config
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch04\Axonometric\bin\Debug\Axonometric.exe
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch04\Axonometric\bin\Debug\Axonometric.pdb
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch04\Axonometric\obj\Debug\Axonometric.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch04\Axonometric\obj\Debug\MainWindow.g.cs
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch04\Axonometric\obj\Debug\App.g.cs
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch04\Axonometric\obj\Debug\Axonometric_MarkupCompile.cache
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch04\Axonometric\obj\Debug\Axonometric_MarkupCompile.lref
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch04\Axonometric\obj\Debug\MainWindow.baml
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch04\Axonometric\obj\Debug\Axonometric.g.resources
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch04\Axonometric\obj\Debug\Axonometric.Properties.Resources.resources
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch04\Axonometric\obj\Debug\Axonometric.csproj.GenerateResource.cache
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch04\Axonometric\obj\Debug\Axonometric.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch04\Axonometric\obj\Debug\Axonometric.exe
+C:\Users\ennis\Desktop\Books\WPF 3D\Wpf3dSrc\Ch04\Axonometric\obj\Debug\Axonometric.pdb
